@@ -7,6 +7,7 @@
 *.hrb
 *.ppo
 *.log
+*.old_version
 .history
 .lh
 .hbmk
